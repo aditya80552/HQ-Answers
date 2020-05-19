@@ -4,7 +4,7 @@ import aiohttp
 import discord
 import messageBox
 
-BEARER_TOKEN = ''
+BEARER_TOKEN = 'NzEyMTUyNzk0OTE1NjY3OTk4.XsNfKw.vDmX7-kryklhwA5FOj9uDrXZbGE'
 URL = 'https://api-quiz.hype.space/shows/now?type='
 HEADERS = {
     'Authorization': f'Bearer {BEARER_TOKEN}',
